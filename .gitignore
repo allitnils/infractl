@@ -1,0 +1,8 @@
+infractl
+infractl-*
+*.exe
+dist/
+report.html
+.infractl.yaml
+.vscode/
+.idea/
